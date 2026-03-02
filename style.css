@@ -1,0 +1,17 @@
+body {
+    background-color: blue;
+}
+
+h1 {
+    color: blue;
+}
+
+p {
+    color: white;
+    font-size: 16px;
+}
+
+.profile-img {
+    width: 200px;
+    height: auto;
+}
